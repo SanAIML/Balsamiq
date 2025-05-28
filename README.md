@@ -1,6 +1,6 @@
 # Balsamiq
-## Name : JAYARAJ B
-## Reg. no: 212224220011
+## Name : RIHTIKA R
+## Reg. no: 212224240136
 ## Design a wireframe diagram for a generic application or website using Balsamiq, including at least 5 essential screens/pages: Welcome/Splash Screen, Login/Signup Screen, Home/Dashboard Screen, Content/Product Listing Screen, and Checkout/Contact/Final Action Screen.Focus on the layout structure, navigation flow, and placement of UI elements, keeping it simple without using colors or detailed graphics.
 ## AIM:
 To design a wireframe for a generic application/website using Balsamiq, showcasing the layout structure, 
@@ -34,8 +34,18 @@ C.Defined screen flow:
     o Insert a large "Submit" or "Place Order" button 
   7. Add navigation flow arrows between screens 
   8. Save and export the wireframe design as image or PDF
-## SCREENSHOTS:
-![New Wireframe 1](https://github.com/user-attachments/assets/74baf15d-39b5-4cd7-b29b-4d5552d487a1)
+## IMAGES:
+![image](https://github.com/user-attachments/assets/584adc9e-557a-4c2b-b44c-bc253f9c876b)
+
+![image](https://github.com/user-attachments/assets/0f0a8886-297b-4e92-8f09-adaaddcdaa47)
+
+![image](https://github.com/user-attachments/assets/81d0b32a-e6e6-4171-88f4-ec82f68dc8d8)
+
+![image](https://github.com/user-attachments/assets/9b0b3260-e01f-43e5-bd27-cf7a0b7257ab)
+
+![image](https://github.com/user-attachments/assets/55223283-0fa8-4d51-b8fe-f12f511fedd1)
+
+![image](https://github.com/user-attachments/assets/c3d73b03-1c4a-4c48-96f3-46e2fd9f16a9)
 
 ## Result:
 Thus, the experiment was completed successfully.
